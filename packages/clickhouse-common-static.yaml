@@ -25,7 +25,6 @@ description: |
   Common files for ClickHouse
     ClickHouse is a column-oriented database management system
     that allows generating analytical data reports in real time.
-
     This package provides common files for both clickhouse server and client
 
 contents:
